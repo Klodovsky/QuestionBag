@@ -62,7 +62,7 @@ export default {
   },
   created() {
     this.getQuestions()
-    document.title = "QuestionTime";
+    document.title = "Question Bag";
   }
 };
 </script>

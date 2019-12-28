@@ -70,7 +70,7 @@ export default {
     }   
   },
   created() {
-    document.title = "Editor - QuestionTime";
+    document.title = "Editor - Question Bag";
   }  
 }
 </script>

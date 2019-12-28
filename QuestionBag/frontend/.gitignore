@@ -24,5 +24,5 @@ yarn-error.log*
 # Webpack-Bundle-Tracker output
 webpack-stats.json
 
-# Not Needed - Our SPA's entry-point is QuestionTime/templates/index.html
+# Not Needed - Our SPA's entry-point is QuestionBag/templates/index.html
 public/
