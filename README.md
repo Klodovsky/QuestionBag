@@ -77,7 +77,9 @@ npm run serve
 ```bash
 python manage.py runserver
 ```
-# Open up Chrome and go to 127.0.0.1:8000
+# Open up your browser and go to 127.0.0.1:8000
+![home](https://user-images.githubusercontent.com/55706752/71542147-79f8ca80-2928-11ea-8033-3324ae444da3.PNG)
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
